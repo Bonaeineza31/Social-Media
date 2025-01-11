@@ -30,15 +30,16 @@ body {
 .logo img {
     width: 50px;
     height: auto;
+    padding-left: 50px;
 }
 
 .search-bar input {
     padding: 10px;
     border-radius: 5px;
-    border: none;
-    width: 300px;
+    border: 15px;
+    width: 150px;
     font-size: 16px;
-    background-color: #2d3339; /* Dark input background */
+ /* Dark input background */
     color: #d1d1d1;
 }
 
